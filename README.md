@@ -54,21 +54,22 @@ npm test src/components/Quiz.test.tsx
 ## Project Structure
 quiz-app/
 ├─ public/
-│ ├─ index.html
-│ ├─ manifest.json
-│ └─ favicon.ico
+│  ├─ index.html
+│  ├─ manifest.json
+│  └─ favicon.ico
 ├─ src/
-│ ├─ components/
-│ ├─ hooks/
-│ ├─ services/
-│ ├─ types/
-│ ├─ App.tsx
-│ ├─ index.tsx
-│ └─ styles/
+│  ├─ components/
+│  ├─ hooks/
+│  ├─ services/
+│  ├─ types/
+│  ├─ App.tsx
+│  ├─ index.tsx
+│  └─ styles/
 ├─ vercel.json
 ├─ package.json
 ├─ tsconfig.json
 └─ README.md
+
 
 
 ## Usage
